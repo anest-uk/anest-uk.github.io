@@ -1,4 +1,2 @@
-## Anest-uk
-
-This GitHub Pages site will host public code and data links
+## coming soon: code and data links for repeat sales index, factor model, forecast model
 
