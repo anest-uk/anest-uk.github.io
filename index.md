@@ -1,2 +1,2 @@
-## coming soon: {code} + <data>
+## coming soon: {code} + [data]
 
